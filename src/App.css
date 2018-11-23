@@ -1,0 +1,26 @@
+.counter{
+  font-size: 300%;
+  display: flex;
+  padding-left: 1%;
+  position: relative;
+}
+.counter-txt{
+  font-size: 100%;
+  display: flex;
+  color: gray;
+}
+.hours-txt{
+  position: absolute;
+  left: 1%;
+  bottom: 75%;
+}
+.minutes-txt{
+  position: absolute;
+  left: 5%;
+  bottom: 75%;
+}
+.seconds-txt{
+  position: absolute;
+  left: 10%;
+  bottom: 75%;
+}
